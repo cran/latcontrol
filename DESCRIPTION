@@ -2,7 +2,7 @@ Package: latcontrol
 Type: Package
 Title: Evaluation of the Role of Control Variables in Structural
         Equation Models
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
 	person("Christian", "Blötner", role = c("aut", "cre"), email = "c.bloetner@gmail.com")
 Depends: R (>= 4.3.0), lavaan
@@ -10,8 +10,8 @@ Description: Various opportunities to evaluate the effects of including one or m
 License: GPL-3
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2023-08-17 06:34:24 UTC; christianblotner
+Packaged: 2024-07-01 06:32:34 UTC; christianblotner
 Author: Christian Blötner [aut, cre]
 Maintainer: Christian Blötner <c.bloetner@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-08-17 15:02:35 UTC
+Date/Publication: 2024-07-01 07:00:01 UTC

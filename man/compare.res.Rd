@@ -29,6 +29,8 @@ equation models with and without the control variable(s) outlined below.}
 side object by the right-hand side object, and `~~` an undirected covariance.
 See the documentation of the lavaan package (Rosseel, 2012) for details.)}
 \item{rhs}{Right-hand side of the parameter estimate both models contain.}
+\item{label}{If there are labelled parameters in the lavaan syntax, the
+respective labels will be echoed in the output of the compare.res() function.}
 \item{est.std.with}{Standardized parameter estimate in the model with the
 control variable(s).}
 \item{p.with}{p-value of the standardized parameter estimate in the model with

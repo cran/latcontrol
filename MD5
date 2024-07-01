@@ -1,8 +1,8 @@
-5b24fcc70dde29e1676d6043f16c849f *DESCRIPTION
+ee5e0bf80fe3158b958771a3d6607a97 *DESCRIPTION
 18057a6a95354efd13c80d2c39ca2519 *NAMESPACE
-58a8c64d0ef2fb27f536e5dde2d95254 *R/compare.res.R
+bca3b13cf023655bb9bf56a937837b24 *R/compare.res.R
 8cf6e9bbfeab1af55479a882987c2ed7 *R/get_resid.R
 7d282c6b520a666625fb6137e53d3d61 *R/latcontrol.R
-89105ee4bfcc2961032b83207069e640 *man/compare.res.Rd
+73f29e6b32de0b5948c081ce5fb33b0f *man/compare.res.Rd
 da487371a103960d0a6f9b98cfaef026 *man/get_resid.Rd
 352beaf6dd1ec07a2bf18cbd819985e7 *man/latcontrol.Rd
